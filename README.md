@@ -1,1 +1,1 @@
-<img src="video_game.gif" height="1000px"/>
+<img src="video_game.gif" width="100vw"/>
