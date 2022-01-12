@@ -1,1 +1,1 @@
-![TorryDo](video_game.gif)
+<img src="video_game.gif" height="100%"/>
