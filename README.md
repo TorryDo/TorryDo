@@ -1,1 +1,1 @@
-<img src="video_game.gif" height="100vw"/>
+<img src="video_game.gif" height="100%"/>
