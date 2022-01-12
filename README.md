@@ -1,1 +1,1 @@
-[![TorryDo](video_game.gif)
+![TorryDo](video_game.gif)
