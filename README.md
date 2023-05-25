@@ -33,7 +33,7 @@ As a mobile engineer, I'm passionate about developing creative and valuable apps
 <div style="display: flex; justify-content: flex-start;">
 
   <!-- UPWORK -->
-  <a href="https://www.upwork.com/freelancers/~01e2ce8a35ff551045" title="Redirect to Facebook" style="padding-right: 10px;">
+  <a href="https://www.upwork.com/freelancers/~01e2ce8a35ff551045" title="Redirect to Upwork" style="padding-right: 10px;">
     <img src="assets/logo/Upwork.png" width="60" alt="Upwork" />
   </a>
 
@@ -48,8 +48,8 @@ As a mobile engineer, I'm passionate about developing creative and valuable apps
   </a>
 
   <!-- GMAIL -->
-  <a href="mailto:tridonguyen.dev@gmail.com" title="Redirect to Facebook" style="padding-right: 10px;">
-    <img src="assets/logo/Gmail.png" width="60" alt="Facebook" />
+  <a href="mailto:tridonguyen.dev@gmail.com" title="Send Email" style="padding-right: 10px;">
+    <img src="assets/logo/Gmail.png" width="60" alt="Email" />
   </a>
 
   <!-- PLAY STORE -->
