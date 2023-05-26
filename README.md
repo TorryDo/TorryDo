@@ -4,7 +4,7 @@
 
 ### A Passionate Mobile Engineer, currently learning Backend & AI 🔥
 
-As a mobile engineer, I'm passionate about developing creative and valuable apps that exceed user expectations. I'm always learning and experimenting with new technologies to make my designs and features stand out. Collaboration and accountability are key principles in my work, and I believe that they are essential for creating top-quality projects. 🏆
+I'm always learning and experimenting with new technologies to make my designs and features stand out. Collaboration and responsibility are key principles in my work, and I believe that they are essential for creating top-quality projects. 🏆
 
 <br>
 
