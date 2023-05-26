@@ -9,7 +9,7 @@ I'm always learning and experimenting with new technologies to make my designs a
 <br>
 
 - 🔥 Mobile: `Android Native`, `Flutter`
-- 💡 Backend: `FastAPI`
+- 💡 Backend: `FastAPI`, `Firebase`
 - 🍀 Language: `Java/Kotlin`, `Python`, `Dart`, `C/C++`, `JavaScript`
 - 🎨 Open Source Contributor
 - 💌 Available for your next Awesome Project
