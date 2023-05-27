@@ -1,16 +1,16 @@
 <!-- <img src="assets/gif/developer.gif" width="100%"/> -->
 
-### Hi there, I'm TorryDo (Tri Do Nguyen) 👋
+## Hi there, I'm TorryDo (Tri Do Nguyen) 👋
 
 ### A Passionate Mobile Engineer, currently learning Backend & AI 🔥
 
 I'm always learning and experimenting with new technologies to make my designs and features stand out. Collaboration and responsibility are key principles in my work, and I believe that they are essential for creating top-quality projects. 🏆
 
-<br>
+######
 
-- 🔥 Mobile: `Android Native`, `Flutter`
-- 💡 Backend: `FastAPI`, `Firebase`
-- 🍀 Language: `Java/Kotlin`, `Python`, `Dart`, `C/C++`, `JavaScript`
+- 🔥 Mobile: `Android Native`  `Flutter`
+- 💡 Backend: `FastAPI`  `Firebase`
+- 🍀 Language: `Java/Kotlin`  `Python`  `Dart`  `C/C++`  `JavaScript`
 - 🎨 Open Source Contributor
 - 💌 Available for your next Awesome Project
 
