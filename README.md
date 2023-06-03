@@ -2,7 +2,7 @@
 
 ## Hi there, I'm TorryDo (Tri Do Nguyen) 👋
 
-### A Passionate Mobile Engineer, currently learning Backend & AI 🔥
+### A Passionate Mobile Engineer 🔥
 
 I'm always learning and experimenting with new technologies to make my designs and features stand out. Collaboration and responsibility are key principles in my work, and I believe that they are essential for creating top-quality projects. 🏆
 
@@ -10,7 +10,7 @@ I'm always learning and experimenting with new technologies to make my designs a
 
 - 🔥 Mobile: `Android Native`  `Flutter`
 - 💡 Backend: `FastAPI`  `Firebase`
-- 🍀 Language: `Java/Kotlin`  `Python`  `Dart`  `C/C++`  `JavaScript`
+- 🍀 Language: `Java/Kotlin`  `Python`  `Dart`
 - 🎨 Open Source Contributor
 - 💌 Available for your next Awesome Project
 
@@ -31,11 +31,6 @@ I'm always learning and experimenting with new technologies to make my designs a
 ## Reach me via 👇
 
 <div style="display: flex; justify-content: flex-start;">
-
-  <!-- UPWORK -->
-  <a href="https://www.upwork.com/freelancers/~01e2ce8a35ff551045" title="Redirect to Upwork" style="padding-right: 10px;">
-    <img src="assets/logo/Upwork.png" width="60" alt="Upwork" />
-  </a>
 
   <!-- LINKEDIN -->
   <a href="https://www.linkedin.com/in/tridonguyen/" title="Redirect to LinkedIn" style="padding-right: 10px;">
@@ -60,6 +55,16 @@ I'm always learning and experimenting with new technologies to make my designs a
   <!-- TELEGRAM -->
   <a href="https://t.me/tridonguyen" title="Redirect to Telegram" style="padding-right: 10px;">
     <img src="assets/logo/Telegram.png" width="60" alt="Telegram" />
+  </a>
+
+  <!-- FIVERR -->
+  <a href="https://www.fiverr.com/tridonguyen" title="Redirect to Fiverr" style="padding-right: 10px;">
+    <img src="assets/logo/Fiverr.png" width="60" alt="Fiverr" />
+  </a>
+
+  <!-- UPWORK -->
+  <a href="https://www.upwork.com/freelancers/~01e2ce8a35ff551045" title="Redirect to Upwork" style="padding-right: 10px;">
+    <img src="assets/logo/Upwork.png" width="60" alt="Upwork" />
   </a>
 
 </div>
