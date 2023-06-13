@@ -9,7 +9,6 @@ I'm always learning and experimenting with new technologies to make my designs a
 ######
 
 - 🔥 Mobile: `Android Native`  `Flutter`
-- 💡 Backend: `FastAPI`  `Firebase`
 - 🍀 Language: `Java/Kotlin`  `Python`  `Dart`
 - 🎨 Open Source Contributor
 - 💌 Available for your next Awesome Project
