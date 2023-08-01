@@ -6,10 +6,8 @@
 ######
 
 <div align="center">
-    <img src="assets/gif/developer.gif" width="650px"/>
+    <img src="assets/gif/developer.gif" width="500px"/>
 </div>
-
-######
 
 <div align="center">
     
@@ -19,15 +17,6 @@
 
 </div>
 
-######
-
-## What I'm doing now ? 👀
-
-- ⚡ Some Awesome Projects on `Google Play Store` 
-- 🎨 `Open Source` Contributor
-- 💌 Waiting for your next Incredible Project
-
-<br>
 
 <details>
     <summary><b>📊 Github Stats </b></summary>
@@ -40,6 +29,13 @@
 
 </details>
 
+## What I'm doing now ? 👀
+
+- ⚡ Some Awesome Projects on `Google Play Store` 
+- 🎨 `Open Source` Contributor
+- 💌 Waiting for your next Incredible Project
+
+######
 
 ## Reach me via 👇
 
@@ -47,37 +43,37 @@
 
   <!-- LINKEDIN -->
   <a href="https://www.linkedin.com/in/tridonguyen/" title="Redirect to LinkedIn" style="padding-right: 10px;">
-    <img src="assets/logo/LinkedIn.png" width="60" alt="LinkedIn" />
+    <img src="assets/logo/LinkedIn.png" width="50" alt="LinkedIn" />
   </a>
   
   <!-- FACEBOOK -->
   <a href="https://www.facebook.com/trido392/" title="Redirect to Facebook" style="padding-right: 10px;">
-    <img src="assets/logo/Facebook.png" width="60" alt="Facebook" />
+    <img src="assets/logo/Facebook.png" width="50" alt="Facebook" />
   </a>
 
   <!-- GMAIL -->
   <a href="mailto:tridonguyen.dev@gmail.com" title="Send Email" style="padding-right: 10px;">
-    <img src="assets/logo/Gmail.png" width="60" alt="Email" />
+    <img src="assets/logo/Gmail.png" width="50" alt="Email" />
   </a>
 
   <!-- PLAY STORE -->
   <a href="https://play.google.com/store/apps/developer?id=Langhance" title="Redirect to Google Play" style="padding-right: 10px;">
-    <img src="assets/logo/GooglePlay.png" width="60" alt="Google Play" />
+    <img src="assets/logo/GooglePlay.png" width="50" alt="Google Play" />
   </a>
 
   <!-- TELEGRAM -->
   <a href="https://t.me/tridonguyen" title="Redirect to Telegram" style="padding-right: 10px;">
-    <img src="assets/logo/Telegram.png" width="60" alt="Telegram" />
+    <img src="assets/logo/Telegram.png" width="50" alt="Telegram" />
   </a>
 
   <!-- FIVERR -->
   <a href="https://www.fiverr.com/tridonguyen" title="Redirect to Fiverr" style="padding-right: 10px;">
-    <img src="assets/logo/Fiverr.png" width="60" alt="Fiverr" />
+    <img src="assets/logo/Fiverr.png" width="50" alt="Fiverr" />
   </a>
 
   <!-- UPWORK -->
   <a href="https://www.upwork.com/freelancers/~01e2ce8a35ff551045" title="Redirect to Upwork" style="padding-right: 10px;">
-    <img src="assets/logo/Upwork.png" width="60" alt="Upwork" />
+    <img src="assets/logo/Upwork.png" width="50" alt="Upwork" />
   </a>
 
 </div>
