@@ -1,17 +1,31 @@
 <!-- <img src="assets/gif/developer.gif" width="100%"/> -->
 
-## Hi there, I'm TorryDo (Tri Do Nguyen) 👋
-
-### A Passionate Mobile Engineer 🔥
-
-I'm always learning and experimenting with new technologies to make my designs and features stand out. Collaboration and responsibility are key principles in my work, and I believe that they are essential for creating top-quality projects. 🏆
+<h1 align="center">Hi 👋, I'm TorryDo (Tri Do Nguyen)</h1>
+<h3 align="center">A Passionate Developer writing Mobile Apps since 2020. 🔥 I've working with Android (Kotlin/Java), Flutter, NodeJs (TypeScript) and Python</h3>
 
 ######
 
-- 🔥 Mobile: `Android Native`  `Flutter`
-- 🍀 Language: `Java/Kotlin`  `Python`  `Dart`
-- 🎨 Open Source Contributor
-- 💌 Available for your next Awesome Project
+<div align="center">
+    <img src="assets/gif/developer.gif" width="650px"/>
+</div>
+
+######
+
+<div align="center">
+    
+| Language 🍀 | `Java/Kotlin`  `Python`  `Dart`  `TypeScript` |
+| :- | :- |
+| Tech 🔥 | `Android`  `Flutter`  `NodeJs` |
+
+</div>
+
+######
+
+## What I'm doing now ? 👀
+
+- ⚡ Some Awesome Projects on `Google Play Store` 
+- 🎨 `Open Source` Contributor
+- 💌 Waiting for your next Incredible Project
 
 <br>
 
