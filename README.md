@@ -3,7 +3,7 @@
 <div align="start">
  
 ## Hi There👋, I'm `Tri Do Nguyen`
-#### A Passionate Developer writing `Mobile Apps` since 2020 🔥. I've working with Android, Flutter, Python and many other technologies.
+A Passionate Developer writing `Mobile Apps` since 2020 🔥. I've working with **Android**, **Flutter**, **Python** and many other technologies.
 
 </div>
 
