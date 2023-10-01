@@ -1,13 +1,11 @@
 <!-- <img src="assets/gif/developer.gif" width="100%"/> -->
 
 <div align="center">
-    
-## Hi👋, I'm `Tri Do Nguyen`
-
-### A Passionate Developer writing `Mobile Apps` since 2020. I've working with Android(Kotlin/Java), Flutter, NodeJs(TypeScript) and Python ❤
+ 
+### Hi👋, I'm `Tri Do Nguyen`
+A Passionate Developer writing `Mobile Apps` since 2020 🔥. I've working with Android, Flutter, Python and many other technologies.
 
 </div>
-
 
 ######
 
@@ -15,16 +13,23 @@
     <img src="assets/gif/developer.gif" width="500px"/>
 </div>
 
+<details>
+<summary>Skill Set 💡</summary>
 <div align="center">
     
-| Language | `Java/Kotlin` `Python` `Dart` `TypeScript` |
+| Language | `Java` `Kotlin` `Python` `Dart` `JavaScript` |
 | :- | :- |
-| Tech | `Android` `Flutter` `NodeJs` |
+| Mobile | `Android` `Flutter` `React Native` |
+| Backend | `Spring` `NodeJs` `FastAPI` |
 
 </div>
 
+</details>
+
+
+
 <details>
-    <summary><b>Github Stats</b> 📊</summary>
+    <summary>Github Stats</summary>
     <p align="center">
         <img 
             src="https://github-readme-stats.vercel.app/api?username=torrydo&count_private=true&show_icons=true&include_all_commits=true" 
@@ -38,7 +43,7 @@
 
 - ⭐ Some Awesome Projects on `Google Play Store` 
 - 🎨 `Open Source` Contributor
-- 💌 Waiting for your next **Incredible Project**
+- 💌 Waiting for your next **Incredible Projects**
 
 ######
 
