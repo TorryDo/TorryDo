@@ -1,9 +1,9 @@
 <!-- <img src="assets/gif/developer.gif" width="100%"/> -->
 
-<div align="center">
+<div align="start">
  
-### Hi👋, I'm `Tri Do Nguyen`
-A Passionate Developer writing `Mobile Apps` since 2020 🔥. I've working with Android, Flutter, Python and many other technologies.
+## Hi There👋, I'm `Tri Do Nguyen`
+#### A Passionate Developer writing `Mobile Apps` since 2020 🔥. I've working with Android, Flutter, Python and many other technologies.
 
 </div>
 
