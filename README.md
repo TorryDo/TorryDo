@@ -3,7 +3,7 @@
 <div align="start">
  
 ## Hi There👋, I'm `Tri Do Nguyen`
-A Passionate Developer writing `Mobile Apps` since 2020 🔥. I've working with **Android**, **Flutter**, **Python** and many other technologies.
+A Passionate Developer writing `Mobile Apps` since 2020 🔥. I've working with **Android**, **Flutter**, **Spring/Java**, **Python** and many other technologies.
 
 </div>
 
@@ -17,10 +17,11 @@ A Passionate Developer writing `Mobile Apps` since 2020 🔥. I've working with 
 <summary>Skill Set 💡</summary>
 <div align="center">
     
-| Language | `Java` `Kotlin` `Python` `Dart` `JavaScript` |
+| Language | `Java` `Kotlin` `Python` `Dart` `JS/TS` |
 | :- | :- |
-| Mobile | `Android` `Flutter` `React Native` |
-| Backend | `Spring` `NodeJs` `FastAPI` |
+| Mobile | `Android` `Flutter` |
+| Backend | `Spring Boot` `FastAPI` `NodeJs` |
+| Database | `SQLite` `PostgreSQL` `Firebase` |
 
 </div>
 
