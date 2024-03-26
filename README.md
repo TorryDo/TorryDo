@@ -3,7 +3,7 @@
 <div align="start">
  
 ## Hi There👋, I'm `Tri Do Nguyen`
-A Passionate Developer writing `Mobile Apps` since 2020 🔥. I've working with **Android**, **Flutter**, **Spring/Java**, **Python** and many other technologies.
+A Passionate Software Engineer writing `Mobile Apps` since 2020 🔥. I've working with **Android**, **Spring Boot**, **Python**, **Flutter** and many other technologies.
 
 </div>
 
@@ -17,10 +17,11 @@ A Passionate Developer writing `Mobile Apps` since 2020 🔥. I've working with 
 <summary>Skill Set 💡</summary>
 <div align="center">
     
-| Language | `Java` `Kotlin` `Python` `Dart` `JS/TS` |
+| Language | `Java` `Kotlin` `Python` `Dart` `JavaScript` `SQL` `Bash` |
 | :- | :- |
 | Mobile | `Android` `Flutter` |
-| Backend | `Spring Boot` `FastAPI` `NodeJs` |
+| Backend | `Spring Boot` `FastAPI` |
+| Web | `ReactJS/NextJS`|
 | Database | `SQLite` `PostgreSQL` `Firebase` |
 
 </div>
@@ -78,13 +79,13 @@ A Passionate Developer writing `Mobile Apps` since 2020 🔥. I've working with 
   </a>
 
   <!-- FIVERR -->
-  <a href="https://www.fiverr.com/tridonguyen" title="Redirect to Fiverr" style="padding-right: 10px;">
+  <!--<a href="https://www.fiverr.com/tridonguyen" title="Redirect to Fiverr" style="padding-right: 10px;">
     <img src="assets/logo/Fiverr.png" width="45" alt="Fiverr" />
-  </a>
+  </a> -->
 
   <!-- UPWORK -->
-  <a href="https://www.upwork.com/freelancers/~01e2ce8a35ff551045" title="Redirect to Upwork" style="padding-right: 10px;">
+  <!--<a href="https://www.upwork.com/freelancers/~01e2ce8a35ff551045" title="Redirect to Upwork" style="padding-right: 10px;">
     <img src="assets/logo/Upwork.png" width="45" alt="Upwork" />
-  </a>
+  </a>-->
 
 </div>
