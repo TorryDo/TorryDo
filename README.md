@@ -3,7 +3,7 @@
 <div align="start">
  
 ## Hi There👋, I'm `Tri Do Nguyen`
-A Passionate Software Engineer writing `Mobile Apps` since 2020 🔥. I've working with **Android**, **Spring Boot**, **Python**, **Flutter** and many other technologies.
+A Passionate Software Engineer writing `Mobile Apps` since 2020 🔥. I've working with **Android**, **Spring Boot**, **Python**, **Flutter** and many other technologies. Currently focusing on `Backend Development`
 
 </div>
 
@@ -17,12 +17,13 @@ A Passionate Software Engineer writing `Mobile Apps` since 2020 🔥. I've worki
 <summary>Skill Set 💡</summary>
 <div align="center">
     
-| Language | `Java` `Kotlin` `Python` `Dart` `JavaScript` `SQL` `Bash` |
+| Language | `Java` `Kotlin` `Python` `JavaScript` `Dart` `Bash` |
 | :- | :- |
-| Mobile | `Android` `Flutter` |
-| Backend | `Spring Boot` `FastAPI` |
+| Mobile | `Android` `Flutter` `React Native` |
+| Backend | `Spring Boot` |
 | Web | `ReactJS/NextJS`|
-| Database | `SQLite` `PostgreSQL` `Firebase` |
+| Database | `SQLite` `PostgreSQL` |
+| Others | `Firebase` |
 
 </div>
 
@@ -43,8 +44,9 @@ A Passionate Software Engineer writing `Mobile Apps` since 2020 🔥. I've worki
 
 ## What I'm doing now ? 👀
 
-- ⭐ Some Awesome Projects on `Google Play Store` 
+- ⭐ Developing awesome Projects on the Google Play Store
 - 🎨 `Open Source` Contributor
+- 🔥 Diving in `software architectures` and `system design`
 - 💌 Waiting for your next **Incredible Projects**
 
 ######
