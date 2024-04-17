@@ -44,9 +44,10 @@ A Passionate Software Engineer writing `Mobile Apps` since 2020 🔥. I've worki
 
 ## What I'm doing now ? 👀
 
-- ⭐ Developing awesome Projects on the Google Play Store
 - 🎨 `Open Source` Contributor
 - 🔥 Diving in `software architectures` and `system design`
+- ⭐ Developing awesome Projects on the Google Play Store
+
 <!-- - 💌 Waiting for your next **Incredible Projects** -->
 
 ######
