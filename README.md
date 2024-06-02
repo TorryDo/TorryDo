@@ -2,7 +2,7 @@
 
 <div align="start">
  
-## Hi There👋, I'm `Tri Do Nguyen`
+## Hi There👋, I'm `Tri Nguyen Do`
 A Passionate Software Engineer writing `Mobile Apps` since 2020 🔥. I've working with **Android**, **Spring Boot**, **Python**, **Flutter** and many other technologies. Currently focusing on `Backend Development`
 
 </div>
